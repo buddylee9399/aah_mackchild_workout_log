@@ -13,10 +13,8 @@ gem 'bootstrap-sass'
 - haml instead of erb
 
 ## MODELS
-- devise user: has many movies and reviews
-- movies: belongs to user
-- attached an image, searchkick
-- reviews: belong to user, movies
+- workouts
+- exercises
 
 ## OTHER
 - he did his own styling
